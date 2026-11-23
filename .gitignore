@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.idea/
+
+# Node
+node_modules/
+dist/
+build/
+
+# System
+.DS_Store
